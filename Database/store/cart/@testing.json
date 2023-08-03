@@ -1,0 +1,10 @@
+{
+    "lvMHeartBeast3E0": {
+        "product_name": "HeartBeast",
+        "product_img": "../../static/images/Item_Images/item3.png",
+        "product_quantity": 1,
+        "product_price": 100,
+        "total_price": 100,
+        "product_status": "In Stock"
+    }
+}

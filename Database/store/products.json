@@ -1,0 +1,127 @@
+{
+    "product1": {
+        "product_id": "7fXWINKLdn",
+        "product_name": "WINK",
+        "product_img": "../../static/images/Item_Images/item1.png",
+        "product_price": 999,
+        "product_quantity": "1 Piece/pack",
+        "product_status": "In Stock"
+    },
+
+    "product2": {
+        "product_id": "7yiSMILESoOG",
+        "product_name": "SMILES",
+        "product_img": "../../static/images/Item_Images/item2.png",
+        "product_price": 539,
+        "product_quantity": "2 Pieces/pack",
+        "product_status": "In Stock"
+    },
+
+    "product3": {
+        "product_id": "lvMHeartBeast3E0",
+        "product_name": "HeartBeast",
+        "product_img": "../../static/images/Item_Images/item3.png",
+        "product_price": 100,
+        "product_quantity": "3 Pieces/pack",
+        "product_status": "In Stock"
+    },
+
+    "product4": {
+        "product_id": "TJXGreenySus1kh",
+        "product_name": "GreenySus",
+        "product_img": "../../static/images/Item_Images/item4.png",
+        "product_price": 300,
+        "product_quantity": "2 Pieces/pack",
+        "product_status": "In Stock"
+    },
+
+    "product5": {
+        "product_id": "99PPaleDayxJL",
+        "product_name": "PaleDay",
+        "product_img": "../../static/images/Item_Images/item5.png",
+        "product_price": 100,
+        "product_quantity": "3 Pieces/pack",
+        "product_status": "In Stock"
+    },
+
+    "product6": {
+        "product_id": "t3SGenLSDDfv",
+        "product_name": "GenLSD",
+        "product_img": "../../static/images/Item_Images/item6.png",
+        "product_price": 89,
+        "product_quantity": "3 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product7": {
+        "product_id": "4mtRed&WhiteHak",
+        "product_name": "Red&White",
+        "product_img": "../../static/images/Item_Images/item7.png",
+        "product_price": 200,
+        "product_quantity": "3 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product8": {
+        "product_id": "tFQBlueRaingQT",
+        "product_name": "BlueRain",
+        "product_img": "../../static/images/Item_Images/item8.png",
+        "product_price": 200,
+        "product_quantity": "3 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product9": {
+        "product_id": "ESQStickyNoteuw1",
+        "product_name": "StickyNote",
+        "product_img": "../../static/images/Item_Images/item9.png",
+        "product_price": 629,
+        "product_quantity": "1 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product10": {
+        "product_id": "LJQSmilyTongueFgz",
+        "product_name": "SmilyTongue",
+        "product_img": "../../static/images/Item_Images/item10.png",
+        "product_price": 629,
+        "product_quantity": "2 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product11": {
+        "product_id": "uY6SkullyToneX97",
+        "product_name": "SkullyTone",
+        "product_img": "../../static/images/Item_Images/item11.png",
+        "product_price": 2799,
+        "product_quantity": "5 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product12": {
+        "product_id": "relMystryFaceXSF",
+        "product_name": "MystryFace",
+        "product_img": "../../static/images/Item_Images/item12.png",
+        "product_price": 2799,
+        "product_quantity": "1 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product13": {
+        "product_id": "NZkMultiGrainMmd",
+        "product_name": "MultiGrain",
+        "product_img": "../../static/images/Item_Images/item13.png",
+        "product_price": 799,
+        "product_quantity": "7 Pieces/pack",
+        "product_status": "In Stock"
+    },
+    "product14": {
+        "product_id": "9ZOCocainew1K",
+        "product_name": "Cocaine",
+        "product_img": "../../static/images/Item_Images/item14.png",
+        "product_price": 48586,
+        "product_quantity": "5 Gram/pack",
+        "product_status": "In Stock"
+    },
+    "product15": {
+        "product_id": "LIYCokeSaltyFx",
+        "product_name": "CokeSalty",
+        "product_img": "../../static/images/Item_Images/item15.png",
+        "product_price": 16195,
+        "product_quantity": "1 Gram/pack",
+        "product_status": "In Stock"
+    }
+}
